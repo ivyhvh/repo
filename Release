@@ -1,0 +1,8 @@
+Origin: Ivy
+Label: Ivy's Repo
+Suite: stable
+Version: 1.0
+Codename: iyvrepo
+Architectures: iphoneos-arm
+Components: main
+Description: Ivy's Apt Repository

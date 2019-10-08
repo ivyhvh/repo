@@ -1,0 +1,16 @@
+Package: io.ivy.nodockbackground
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Ivy
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/io.ivy.nodockbackground_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3436
+MD5sum: f0833c04dbbed59d27539ebc2448e187
+SHA1: d0afd093fde81f701c41623b300fa3bae18c1999
+SHA256: dad0852f8e137d94ee662167bba8c49c1af8ac9c82291bdf62e5b7a5b49206a4
+Section: Tweaks
+Description: Removes Dock Background
+Author: Ivy
+Name: NoDockBackground
+
